@@ -1,4 +1,11 @@
-##Java学习第一弹--Hello World！
+---
+layout: post
+title: Java: My First Lesson
+date: 2016-11-10 20:17
+comments: true
+external-url:
+categories: Study Notes
+---
 
 程序员学写代码的时候，第一个程序总是hello world，它就好像是一个标志，代表“我正式开始学习这门语言啦！”的意思。
 
