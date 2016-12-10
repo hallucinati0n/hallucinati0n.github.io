@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java: My First Lesson
+title: My First Java Lesson
 date: 2016-11-10 20:17
 comments: true
 external-url:
