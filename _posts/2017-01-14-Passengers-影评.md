@@ -4,7 +4,7 @@ title: Passengers 影评
 date: 2017-01-14 10:20
 comments: true
 external-url:
-categories: Film review
+categories: Film-Review
 
 ---
 
