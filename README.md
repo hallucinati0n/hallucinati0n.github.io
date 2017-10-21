@@ -14,5 +14,3 @@
 >who am i
 >
 >I am a Professor of Software Engineering at the Faculty of Engineering, University of Porto and Senior Researcher at INESC TEC. 
-
-好啦我就说这么多吧，好像赘述了很多不必要的东西，但是没办法我总是害怕侵犯别人的版权嘛……
