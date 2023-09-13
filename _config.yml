@@ -1,9 +1,9 @@
 # Site settings
-title: "Esther's Blog"
-author: "Esther Green"
-description: "This is a blog about my study notes, my thoughts and other interesting things."
-keywords: "Information Security, Natural Science, Films, Musics, Paintings, Books"
-biography: "I am a student of information security at the <a href='http://www.hnu.edu.cn/'>Hunan University</a>."
+title: "Algernon's Blog"
+author: "Algernon"
+description: "This is a blog about my works."
+keywords: "Games，Films, Musics, Paintings, Books"
+biography: "I am a student of IMDT at the Tsinghua University."
 colophon: "© MMXIII — MMXVI by Hugo Sereno Ferreira.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/'>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a>."
 
 baseurl: ""
