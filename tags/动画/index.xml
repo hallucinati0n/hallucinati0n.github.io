@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>动画 on 以丝忒的博客</title><link>https://hallucinati0n.github.io/tags/%E5%8A%A8%E7%94%BB/</link><description>Recent content in 动画 on 以丝忒的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 14 Jan 2025 11:33:33 +0800</lastBuildDate><atom:link href="https://hallucinati0n.github.io/tags/%E5%8A%A8%E7%94%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>作品集</title><link>https://hallucinati0n.github.io/p/work-collection/</link><pubDate>Tue, 14 Jan 2025 11:33:33 +0800</pubDate><guid>https://hallucinati0n.github.io/p/work-collection/</guid><description>&lt;img src="https://hallucinati0n.github.io/p/work-collection/image.jfif" alt="Featured image of post 作品集" />&lt;h2 id="动作捕捉与角色动画">动作捕捉与角色动画
+&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1iF4m1T7e5"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>四元数与欧拉角</title><link>https://hallucinati0n.github.io/p/quaternion-and-eular-angle/</link><pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate><guid>https://hallucinati0n.github.io/p/quaternion-and-eular-angle/</guid><description>&lt;img src="https://hallucinati0n.github.io/p/quaternion-and-eular-angle/%E5%9B%9B%E5%85%83%E6%95%B0.PNG" alt="Featured image of post 四元数与欧拉角" />&lt;h2 id="欧拉角">欧拉角：
+&lt;/h2>&lt;p>欧拉角，一种表示旋转变换的方式，欧拉角的变换是有顺序的，比如x - y - z，且这个顺序是不会因为用户以何种顺序设置它们的值而发生变化，例如：&lt;/p>
+&lt;p>用户A：先绕x轴旋转变换10度，再绕y轴旋转变换60度，再绕z轴旋转变换20度，再绕x轴旋转变换10度&lt;/p>
+&lt;p>用户B：先绕x轴旋转变换20度，再绕y轴旋转变换30度，再绕z轴旋转变换20度，再绕y轴旋转变换30度&lt;/p>
+&lt;p>系统：从初始状态开始，绕x轴20度，绕y轴60度，绕z轴20度&lt;/p>
+&lt;p>系统并不在意设置的过程，只在意最终的值。每一次欧拉变换都是从初始位置，也就是0. 0. 0开始的，和上一个阶段的变换没有关系。&lt;/p>
+&lt;p>这种设置就会导致万向锁现象，即旋转轴因为重合而丢失，物体失去一个方向的旋转自由度&lt;/p>
+&lt;h2 id="四元数">四元数
+&lt;/h2>&lt;p>一个实部和三个虚部构成的向量。可以用来描述一个四维空间中超球的旋转。&lt;/p>
+&lt;p>&lt;img src="https://hallucinati0n.github.io/p/quaternion-and-eular-angle/%E5%9B%9B%E5%85%83%E6%95%B0.PNG"
+width="1280"
+height="720"
+srcset="https://hallucinati0n.github.io/p/quaternion-and-eular-angle/%E5%9B%9B%E5%85%83%E6%95%B0_hu1167700631865167419.PNG 480w, https://hallucinati0n.github.io/p/quaternion-and-eular-angle/%E5%9B%9B%E5%85%83%E6%95%B0_hu11199325783291431582.PNG 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>核心就是要理解这个圈和这条线&lt;/p>
+&lt;p>这个圈和这条线都是四维空间中超球上的圈在三维空间里的球极投影&lt;/p>
+&lt;p>这个圈可以协助记忆：&lt;/p>
+&lt;p>$ 1*i = i $&lt;/p>
+&lt;p>$ i * k = -j $&lt;/p>
+&lt;p>$ i * j = k $&lt;/p>
+&lt;p>如果说有一个虚部的复数能够描述二维平面上绕某个点的旋转&lt;/p>
+&lt;p>有两个虚部的（三元数？）复数能够描述三维空间中的旋转&lt;/p>
+&lt;p>那四元数描述的其实是四维空间的旋转，其中包含我们不理解的部分&lt;/p>
+&lt;p>而且好像旋转的自由度并不是和维度的增加保持一个+1的关系&lt;/p>
+&lt;p>一维不存在旋转&lt;/p>
+&lt;p>二维的旋转自由度是1，只有绕点的旋转&lt;/p>
+&lt;p>三维的自由度是3，&lt;/p>
+&lt;p>四维的旋转自由度是3+3 = 6&lt;/p>
+&lt;p>所以说四元数理论上可以描述四维空间中&lt;/p></description></item></channel></rss>
